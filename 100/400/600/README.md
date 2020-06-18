@@ -1,3 +1,2 @@
 
-
-# 600 Title
+# 600 Animate the Character in iClone
