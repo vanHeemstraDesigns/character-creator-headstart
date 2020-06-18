@@ -9,6 +9,17 @@ Purchased Products:
 - Cartoon Character Designer - Toon Figures (Order ID: 10677336) x1 @ USD $99.00
 - Cartoon Character Designer - Toon Hair (Order ID: 10677696) x1 @ USD $49.00
 
+Platform:
+
+Windows Server 2019 Datacenter hosted on https://paperspace.com
+
+See https://www.paperspace.com/console/machines
+
+Device Name: psicuv4f2 (also known as "Character Creator & Decisions")
+
+User: paperspace
+Password: *****
+
 ## 100 Getting Started
 
 See also [README.md](./100/README.md)
