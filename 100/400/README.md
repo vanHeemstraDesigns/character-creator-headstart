@@ -21,6 +21,11 @@ The character will be applied into iClone current project (if iClone is not laun
 
 ## 4. Modify the Character in iClone Character Creator.
 
+See also [README.md](./400/README.md)
+
+### 4.1 Animate your Character in iClone
+
+See also [README.md](./400/100/README.md)
 
 ## 5. Send the Character to iClone again by clicking the Send to iClone button.
 
