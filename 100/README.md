@@ -22,6 +22,6 @@ See also [README.md](./400/README.md)
 
 See also [README.md](./500/README.md)
 
-## 100.600 Image Sequence Export
+## 100.600 Export Image Sequence or Video from iClone
 
 See also [README.md](./600/README.md)
