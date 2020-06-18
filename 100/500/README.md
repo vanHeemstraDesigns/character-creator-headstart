@@ -1,4 +1,4 @@
 
-500. Animate Character in iClone
+# 500. Animate Character in iClone
 
 See also "Animating Characters in iClone" at  
