@@ -19,17 +19,18 @@ The resolution of the texture images burned on the character will be determined 
 
 The character will be applied into iClone current project (if iClone is not launched, then it will be launched with a new project with the exported character).
 
-## 4. Modify the Character in iClone Character Creator.
+## 4. Modify the Character in Character Creator
 
 See also [README.md](./400/README.md)
-
-### 4.1 Animate your Character in iClone
-
-See also [README.md](./400/100/README.md)
 
 ## 5. Send the Character to iClone again by clicking the Send to iClone button.
 
 However, if it is not picked, then a new character will be applied into the current iClone project.
 
+## 6. Animate the Character in iClone
 
+See also [README.md](./600/README.md)
 
+## 7. Export the Character in iClone
+
+See also [README.md](./700/README.md)
