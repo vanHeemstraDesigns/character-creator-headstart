@@ -17,6 +17,7 @@ This Getting Started and Installation video, will guide you on how to download a
 
 - [5:23](https://www.youtube.com/watch?v=o3lEmWpVxUE&t=323s) Stage Library and Iray Render
 
+***NOTE***: Make sure to start the "Reallusion HUB" application and sign-in with your user account before using Character Creator 3. You will thus have access to assets otherwise not accessible.
 
 WATCH MORE: 
 
