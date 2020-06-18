@@ -11,11 +11,11 @@ Look in the Render panel:
 
 Format:
 - [X] Image
-- [-] Video
+- Video
 
 Format: PNG
 
-- [-] Current Frame
+- Current Frame
 - [X] Sequence
 
 Output Size:
