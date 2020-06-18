@@ -9,3 +9,18 @@ Look in the Render panel:
 
 ![render panel](./RenderPanel.jpg)
 
+Format:
+- [X] Image
+- [] Video
+
+Format: PNG
+
+- [] Current Frame
+- [X] Sequence
+
+Output Size:
+
+Frame Size: 
+
+- HD 1080p (1920x1080)
+
