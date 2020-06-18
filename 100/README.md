@@ -13,3 +13,7 @@ See also [README.md](./200/README.md)
 ## 100.300 Intro to User Interface
 
 See also [README.md](./300/README.md)
+
+## 100.400 Image Sequence Export
+
+See also [README.md](./400/README.md)
