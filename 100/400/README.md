@@ -27,10 +27,3 @@ See also [README.md](./400/README.md)
 
 However, if it is not picked, then a new character will be applied into the current iClone project.
 
-## 6. Animate the Character in iClone
-
-See also [README.md](./600/README.md)
-
-## 7. Export the Character in iClone
-
-See also [README.md](./700/README.md)
