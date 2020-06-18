@@ -18,6 +18,10 @@ See also [README.md](./300/README.md)
 
 See also [README.md](./400/README.md)
 
-## 100.500 Image Sequence Export
+## 100.500 Animate Character in iClone
 
 See also [README.md](./500/README.md)
+
+## 100.600 Image Sequence Export
+
+See also [README.md](./600/README.md)
