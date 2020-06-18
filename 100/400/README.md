@@ -3,6 +3,8 @@
 
 See also "Image sequence export" at https://forum.reallusion.com/267321/Image-sequence-export
 
+See also "iClone 7 Export Transparant Background Video - Alpha Channel" at https://www.youtube.com/watch?v=VoPjVNebQEg
+
 iClone allows you to export a sequence of images.
 
 Look in the Render panel:
