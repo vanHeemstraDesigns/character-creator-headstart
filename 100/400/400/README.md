@@ -1,6 +1,4 @@
 
-# 400 Modify the Character in iClone Character Creator
+# 400 Modify the Character in Character Creator
 
-## 100 Animate your Character in iClone
 
-See also [README.md](./100/README.md)
