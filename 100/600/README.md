@@ -1,2 +1,2 @@
 
-# 600 Animate Character in iClone
+# 600 Export Image Sequence or Video from iClone
